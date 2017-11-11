@@ -1,6 +1,7 @@
 public class MySummer {
     public static void main(String[] args) {
-        System.out.println("\n Лета я ждал весь год.\n " +
+        System.out.println("\t\nКак я провёл лето 2017\n" +
+                "\n Лета я ждал весь год.\n " +
                 "Сначала я подожгу школу.\n" +
                 " Потом убью математичку,\n " +
                 "потом географичку и трудовика.\n " +
